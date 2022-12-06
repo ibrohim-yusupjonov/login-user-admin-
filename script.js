@@ -10,7 +10,7 @@ function func(){
     }   else if( savol == 'user' ){
         javob.innerHTML = 'Welcome user :)'
     }   else if (savol ){
-    javob.innerHTML = 'Bunday login mavjud emas'
+    javob.innerHTML = 'Bunday login mavjud emas :)'
     }
 }
 func()
